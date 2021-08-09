@@ -1,0 +1,14 @@
+.button {
+  background-color: var(--frenchRaspberry);
+  color: var(--white);
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  filter: drop-shadow(2px 2px 2px var(--oxfordBlue));
+  border: none;
+  margin-left: 2px;
+}
+
+.button:active {
+  filter: drop-shadow(0.5px 1.5px 2px var(--oxfordBlue));
+}

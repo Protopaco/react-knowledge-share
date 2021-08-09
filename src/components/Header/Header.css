@@ -1,0 +1,12 @@
+.header-root {
+  border-bottom: 2px solid var(--oxfordBlue);
+  height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--white);
+}
+
+.logo {
+  height: 100px;
+}

@@ -1,0 +1,24 @@
+.result-root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--oxfordBlue);
+  border-radius: 25px;
+  padding: 15px;
+  width: 250px;
+  color: var(--oxfordBlue);
+}
+
+.result-country {
+  font-weight: bold;
+  width: 90%;
+  overflow-x: auto;
+  white-space: nowrap;
+  display: flex;
+  justify-content: center;
+}
+
+.flag-image {
+  filter: drop-shadow(2px 2px 2px var(--oxfordBlue));
+}

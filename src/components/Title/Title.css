@@ -1,0 +1,9 @@
+.title-text {
+  font-weight: bold;
+  font-size: 1.25em;
+  padding: 15px 25px 15px 25px;
+  margin: 25px;
+  background-color: var(--oxfordBlue);
+  color: var(--white);
+  border-radius: 25px;
+}

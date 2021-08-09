@@ -1,0 +1,11 @@
+.form-frame {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.text-input {
+  height: 25px;
+  padding: 3px;
+  font-size: 1.25em;
+  width: 250px;
+}
